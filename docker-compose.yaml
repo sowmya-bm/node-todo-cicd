@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "sowmyabm/node-todo-cicd:latest"
+    image: "sowmyabm/node-todo-final:latest"
     ports:
       - "8000:8000"
